@@ -1,0 +1,11 @@
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Portfolio2\bin\Debug\netcoreapp2.0\Portfolio2.deps.json
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Portfolio2\bin\Debug\netcoreapp2.0\Portfolio2.runtimeconfig.json
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Portfolio2\bin\Debug\netcoreapp2.0\Portfolio2.runtimeconfig.dev.json
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Portfolio2\bin\Debug\netcoreapp2.0\Portfolio2.dll
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Portfolio2\bin\Debug\netcoreapp2.0\Portfolio2.pdb
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Portfolio2\obj\Debug\netcoreapp2.0\Portfolio2.csprojAssemblyReference.cache
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Portfolio2\obj\Debug\netcoreapp2.0\Portfolio2.csproj.CoreCompileInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Portfolio2\obj\Debug\netcoreapp2.0\Portfolio2.AssemblyInfoInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Portfolio2\obj\Debug\netcoreapp2.0\Portfolio2.AssemblyInfo.cs
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Portfolio2\obj\Debug\netcoreapp2.0\Portfolio2.dll
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Portfolio2\obj\Debug\netcoreapp2.0\Portfolio2.pdb

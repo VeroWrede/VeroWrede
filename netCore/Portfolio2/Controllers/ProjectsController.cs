@@ -10,9 +10,10 @@ namespace Portfolio2.Controllers
 {
     public class ProjectController : Controller
     {
-        public IActionResult About()
+        [HttpGet("projects")]
+        public IActionResult Projects()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "A listing of my projects.";
 
             return View();
         }
