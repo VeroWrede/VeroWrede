@@ -12,6 +12,8 @@ namespace Portfolio2.Controllers
     {
         public IActionResult Index()
         {
+            ViewData["message"] = "All you ever needed to know";
+            ViewData["afterThought"] = "How very lucky you must feel now and indeed you are!!";
             return View();
         }
         public IActionResult Error()

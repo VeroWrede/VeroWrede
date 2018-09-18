@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VWrede\\Desktop\\CodingDojo\\CodingDojo\\assignments\\netCore\\FirstCs\\FirstCs.csproj",
+      "projectUniqueName": "C:\\Users\\VWrede\\Desktop\\CodingDojo\\C#\\netCore\\FirstCs\\FirstCs.csproj",
       "projectName": "FirstCs",
-      "projectPath": "C:\\Users\\VWrede\\Desktop\\CodingDojo\\CodingDojo\\assignments\\netCore\\FirstCs\\FirstCs.csproj",
+      "projectPath": "C:\\Users\\VWrede\\Desktop\\CodingDojo\\C#\\netCore\\FirstCs\\FirstCs.csproj",
       "packagesPath": "C:\\Users\\VWrede\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VWrede\\Desktop\\CodingDojo\\CodingDojo\\assignments\\netCore\\FirstCs\\obj\\",
+      "outputPath": "C:\\Users\\VWrede\\Desktop\\CodingDojo\\C#\\netCore\\FirstCs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

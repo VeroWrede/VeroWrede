@@ -2,16 +2,22 @@
     ViewData["Title"] = "Contact";
 }
 <h2>@ViewData["Title"]</h2>
-<h3>@ViewData["Message"]</h3>
+<h4>@ViewData["Message"]</h4>
 
 <address>
-    One Microsoft Way<br />
-    Redmond, WA 98052-6399<br />
-    <abbr title="Phone">P:</abbr>
-    425.555.0100
+    <form method="POST" action="/process">
+        <label for="name">Name:</label>
+        <input type="text" name="name" placeholder="BoB L'Eponge">
+        <label for="email">Email:</label>
+        <input type="email" name="email">
+        <br/><br/>
+        <textarea name="message" rows="10" cols="30"></textarea>
+        <br/>
+        <input type="submit" value="Button of no return ...">
+    </form>
 </address>
 
 <address>
-    <strong>Support:</strong> <a href="mailto:Support@example.com">Support@example.com</a><br />
-    <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+    <strong>Support:</strong> <a href="https://www.youtube.com/watch?v=1l26UFQ06eQ">Hello there ;)</a><br />
+    <strong>Marketing:</strong> <a href="https://www.nla.org/">Talk to a representative</a>
 </address>

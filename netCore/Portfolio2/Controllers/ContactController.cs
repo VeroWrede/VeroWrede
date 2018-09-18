@@ -13,6 +13,7 @@ namespace Portfolio2.Controllers
         [HttpGet("contact")]
         public IActionResult Contact()
         {
+            ViewData["Message"] = "Say Hello!";
             return View();
         }
 
