@@ -1,0 +1,11 @@
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Cards\obj\Debug\netcoreapp2.0\Cards.csprojAssemblyReference.cache
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Cards\obj\Debug\netcoreapp2.0\Cards.csproj.CoreCompileInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Cards\obj\Debug\netcoreapp2.0\Cards.AssemblyInfoInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Cards\obj\Debug\netcoreapp2.0\Cards.AssemblyInfo.cs
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Cards\bin\Debug\netcoreapp2.0\Cards.deps.json
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Cards\bin\Debug\netcoreapp2.0\Cards.runtimeconfig.json
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Cards\bin\Debug\netcoreapp2.0\Cards.runtimeconfig.dev.json
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Cards\bin\Debug\netcoreapp2.0\Cards.dll
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Cards\bin\Debug\netcoreapp2.0\Cards.pdb
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Cards\obj\Debug\netcoreapp2.0\Cards.dll
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Cards\obj\Debug\netcoreapp2.0\Cards.pdb

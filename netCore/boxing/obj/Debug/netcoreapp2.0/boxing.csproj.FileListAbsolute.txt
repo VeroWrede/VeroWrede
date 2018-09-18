@@ -1,0 +1,11 @@
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\boxing\bin\Debug\netcoreapp2.0\boxing.deps.json
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\boxing\bin\Debug\netcoreapp2.0\boxing.runtimeconfig.json
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\boxing\bin\Debug\netcoreapp2.0\boxing.runtimeconfig.dev.json
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\boxing\bin\Debug\netcoreapp2.0\boxing.dll
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\boxing\bin\Debug\netcoreapp2.0\boxing.pdb
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\boxing\obj\Debug\netcoreapp2.0\boxing.csprojAssemblyReference.cache
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\boxing\obj\Debug\netcoreapp2.0\boxing.csproj.CoreCompileInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\boxing\obj\Debug\netcoreapp2.0\boxing.AssemblyInfoInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\boxing\obj\Debug\netcoreapp2.0\boxing.AssemblyInfo.cs
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\boxing\obj\Debug\netcoreapp2.0\boxing.dll
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\boxing\obj\Debug\netcoreapp2.0\boxing.pdb

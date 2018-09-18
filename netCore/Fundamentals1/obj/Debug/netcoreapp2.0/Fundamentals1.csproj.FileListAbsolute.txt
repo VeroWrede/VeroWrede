@@ -1,0 +1,11 @@
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Fundamentals1\obj\Debug\netcoreapp2.0\Fundamentals1.csprojAssemblyReference.cache
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Fundamentals1\obj\Debug\netcoreapp2.0\Fundamentals1.csproj.CoreCompileInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Fundamentals1\obj\Debug\netcoreapp2.0\Fundamentals1.AssemblyInfoInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Fundamentals1\obj\Debug\netcoreapp2.0\Fundamentals1.AssemblyInfo.cs
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Fundamentals1\bin\Debug\netcoreapp2.0\Fundamentals1.deps.json
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Fundamentals1\bin\Debug\netcoreapp2.0\Fundamentals1.runtimeconfig.json
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Fundamentals1\bin\Debug\netcoreapp2.0\Fundamentals1.runtimeconfig.dev.json
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Fundamentals1\bin\Debug\netcoreapp2.0\Fundamentals1.dll
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Fundamentals1\bin\Debug\netcoreapp2.0\Fundamentals1.pdb
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Fundamentals1\obj\Debug\netcoreapp2.0\Fundamentals1.dll
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Fundamentals1\obj\Debug\netcoreapp2.0\Fundamentals1.pdb

@@ -1,0 +1,11 @@
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Hello\bin\Debug\netcoreapp2.0\Hello.deps.json
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Hello\bin\Debug\netcoreapp2.0\Hello.runtimeconfig.json
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Hello\bin\Debug\netcoreapp2.0\Hello.runtimeconfig.dev.json
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Hello\bin\Debug\netcoreapp2.0\Hello.dll
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Hello\bin\Debug\netcoreapp2.0\Hello.pdb
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Hello\obj\Debug\netcoreapp2.0\Hello.csprojAssemblyReference.cache
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Hello\obj\Debug\netcoreapp2.0\Hello.csproj.CoreCompileInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Hello\obj\Debug\netcoreapp2.0\Hello.AssemblyInfoInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Hello\obj\Debug\netcoreapp2.0\Hello.AssemblyInfo.cs
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Hello\obj\Debug\netcoreapp2.0\Hello.dll
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Hello\obj\Debug\netcoreapp2.0\Hello.pdb

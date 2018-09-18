@@ -1,0 +1,11 @@
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\CollectionsPractice\bin\Debug\netcoreapp2.0\CollectionsPractice.deps.json
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\CollectionsPractice\bin\Debug\netcoreapp2.0\CollectionsPractice.runtimeconfig.json
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\CollectionsPractice\bin\Debug\netcoreapp2.0\CollectionsPractice.runtimeconfig.dev.json
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\CollectionsPractice\bin\Debug\netcoreapp2.0\CollectionsPractice.dll
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\CollectionsPractice\bin\Debug\netcoreapp2.0\CollectionsPractice.pdb
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\CollectionsPractice\obj\Debug\netcoreapp2.0\CollectionsPractice.csprojAssemblyReference.cache
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\CollectionsPractice\obj\Debug\netcoreapp2.0\CollectionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\CollectionsPractice\obj\Debug\netcoreapp2.0\CollectionsPractice.AssemblyInfoInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\CollectionsPractice\obj\Debug\netcoreapp2.0\CollectionsPractice.AssemblyInfo.cs
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\CollectionsPractice\obj\Debug\netcoreapp2.0\CollectionsPractice.dll
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\CollectionsPractice\obj\Debug\netcoreapp2.0\CollectionsPractice.pdb

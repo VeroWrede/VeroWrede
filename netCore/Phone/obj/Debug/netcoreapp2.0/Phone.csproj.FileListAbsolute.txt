@@ -1,0 +1,11 @@
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Phone\bin\Debug\netcoreapp2.0\Phone.deps.json
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Phone\bin\Debug\netcoreapp2.0\Phone.runtimeconfig.json
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Phone\bin\Debug\netcoreapp2.0\Phone.runtimeconfig.dev.json
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Phone\bin\Debug\netcoreapp2.0\Phone.dll
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Phone\bin\Debug\netcoreapp2.0\Phone.pdb
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Phone\obj\Debug\netcoreapp2.0\Phone.csprojAssemblyReference.cache
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Phone\obj\Debug\netcoreapp2.0\Phone.csproj.CoreCompileInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Phone\obj\Debug\netcoreapp2.0\Phone.AssemblyInfoInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Phone\obj\Debug\netcoreapp2.0\Phone.AssemblyInfo.cs
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Phone\obj\Debug\netcoreapp2.0\Phone.dll
+C:\Users\VWrede\Desktop\CodingDojo\CodingDojo\assignments\netCore\Phone\obj\Debug\netcoreapp2.0\Phone.pdb
