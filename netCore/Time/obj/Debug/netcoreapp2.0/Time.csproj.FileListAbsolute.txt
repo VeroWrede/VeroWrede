@@ -1,0 +1,11 @@
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Time\bin\Debug\netcoreapp2.0\Time.deps.json
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Time\bin\Debug\netcoreapp2.0\Time.runtimeconfig.json
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Time\bin\Debug\netcoreapp2.0\Time.runtimeconfig.dev.json
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Time\bin\Debug\netcoreapp2.0\Time.dll
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Time\bin\Debug\netcoreapp2.0\Time.pdb
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Time\obj\Debug\netcoreapp2.0\Time.csprojAssemblyReference.cache
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Time\obj\Debug\netcoreapp2.0\Time.csproj.CoreCompileInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Time\obj\Debug\netcoreapp2.0\Time.AssemblyInfoInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Time\obj\Debug\netcoreapp2.0\Time.AssemblyInfo.cs
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Time\obj\Debug\netcoreapp2.0\Time.dll
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Time\obj\Debug\netcoreapp2.0\Time.pdb

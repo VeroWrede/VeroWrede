@@ -6,9 +6,9 @@ using Portfolio2.Models;
 
 namespace Portfolio2.Controllers
 {
-    public class ProjectController : Controller
+    public class ProjectsController : Controller
     {
-        [HttpGet("projects")]
+        [HttpGet("Projects")]
         public IActionResult Projects()
         {
             ViewData["Message"] = "A listing of my projects.";
