@@ -1,0 +1,11 @@
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Survey\obj\Debug\netcoreapp2.0\Survey.csprojAssemblyReference.cache
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Survey\obj\Debug\netcoreapp2.0\Survey.csproj.CoreCompileInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Survey\obj\Debug\netcoreapp2.0\Survey.AssemblyInfoInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Survey\obj\Debug\netcoreapp2.0\Survey.AssemblyInfo.cs
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Survey\bin\Debug\netcoreapp2.0\Survey.deps.json
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Survey\bin\Debug\netcoreapp2.0\Survey.runtimeconfig.json
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Survey\bin\Debug\netcoreapp2.0\Survey.runtimeconfig.dev.json
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Survey\bin\Debug\netcoreapp2.0\Survey.dll
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Survey\bin\Debug\netcoreapp2.0\Survey.pdb
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Survey\obj\Debug\netcoreapp2.0\Survey.dll
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Survey\obj\Debug\netcoreapp2.0\Survey.pdb

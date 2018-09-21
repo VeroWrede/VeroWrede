@@ -8,9 +8,10 @@ namespace Time.Controllers
         [HttpGet("")]
         public IActionResult Index()
         {
-            DateTime date = new DateTime;
+            DateTime date = DateTime.Now;
             ViewData["Title"] = "The Time!";
             ViewData["Date"] = date.Date;
+            ViewData["Date2"] = date.Date.ToString("dd-mm-yyyy");
             ViewData["Time"] = date.TimeOfDay;
             return View();
         }
