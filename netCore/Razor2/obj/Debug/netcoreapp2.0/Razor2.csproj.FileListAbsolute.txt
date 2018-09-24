@@ -1,0 +1,11 @@
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Razor2\bin\Debug\netcoreapp2.0\Razor2.deps.json
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Razor2\bin\Debug\netcoreapp2.0\Razor2.runtimeconfig.json
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Razor2\bin\Debug\netcoreapp2.0\Razor2.runtimeconfig.dev.json
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Razor2\bin\Debug\netcoreapp2.0\Razor2.dll
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Razor2\bin\Debug\netcoreapp2.0\Razor2.pdb
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Razor2\obj\Debug\netcoreapp2.0\Razor2.csprojAssemblyReference.cache
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Razor2\obj\Debug\netcoreapp2.0\Razor2.csproj.CoreCompileInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Razor2\obj\Debug\netcoreapp2.0\Razor2.AssemblyInfoInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Razor2\obj\Debug\netcoreapp2.0\Razor2.AssemblyInfo.cs
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Razor2\obj\Debug\netcoreapp2.0\Razor2.dll
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Razor2\obj\Debug\netcoreapp2.0\Razor2.pdb

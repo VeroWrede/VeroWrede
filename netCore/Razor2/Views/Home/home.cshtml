@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Home</title>
+    </head>
+    <body>
+        <h1>@ViewData["Message"]</h1>
+        @{
+            var foods = new List<string>{
+                "Shepperd's Pie",
+                "Meatloaf",
+                "Corned Beef",
+                "Leg of Lamb",
+                "All-wrong Cuesadillas"
+                };
+            
+            foreach (string dish in foods)
+            {  
+                if(dish[0] == 'C')
+                {
+                    <p style="color: red">@dish</p>
+                } else if (dish.Contains("wrong")){
+                    <p style="color: greenyellow; font: bolder">@dish</p>
+                } else {
+                    <p>@dish</p>
+                }
+            }
+        }
+    </body>
+</html>
