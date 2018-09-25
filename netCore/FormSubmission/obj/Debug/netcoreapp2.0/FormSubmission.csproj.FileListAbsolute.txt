@@ -1,0 +1,11 @@
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\FormSubmission\obj\Debug\netcoreapp2.0\FormSubmission.csprojAssemblyReference.cache
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\FormSubmission\obj\Debug\netcoreapp2.0\FormSubmission.csproj.CoreCompileInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\FormSubmission\obj\Debug\netcoreapp2.0\FormSubmission.AssemblyInfoInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\FormSubmission\obj\Debug\netcoreapp2.0\FormSubmission.AssemblyInfo.cs
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\FormSubmission\bin\Debug\netcoreapp2.0\FormSubmission.deps.json
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\FormSubmission\bin\Debug\netcoreapp2.0\FormSubmission.runtimeconfig.json
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\FormSubmission\bin\Debug\netcoreapp2.0\FormSubmission.runtimeconfig.dev.json
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\FormSubmission\bin\Debug\netcoreapp2.0\FormSubmission.dll
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\FormSubmission\bin\Debug\netcoreapp2.0\FormSubmission.pdb
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\FormSubmission\obj\Debug\netcoreapp2.0\FormSubmission.dll
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\FormSubmission\obj\Debug\netcoreapp2.0\FormSubmission.pdb
