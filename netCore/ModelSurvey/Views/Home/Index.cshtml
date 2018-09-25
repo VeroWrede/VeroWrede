@@ -1,0 +1,17 @@
+@model string[]
+<h1>Please fill out the form below</h1>
+<form method="POST" action="/create">
+    <label for="name">Name:</label>
+    <input type="text" name="Name" placeholder="BoB L'Eponge">
+    <label for="location">Location:</label>
+    <select name="Location">
+        <option value="genf">Genf</option>
+        <option value="ny">NY</option>
+        <option value="rhodesia">Rhodesia</option>
+        <option value="anthill">Anthill Street</option>
+    </select>
+    <br/><br/>
+    <textarea name="Message" placeholder="Libertad para los patos!!" rows="10" cols="30"></textarea>
+    <br/>
+    <input type="submit" value="Button of no return ...">
+</form>
