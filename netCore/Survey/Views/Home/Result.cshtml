@@ -1,6 +1,6 @@
-@model Survey
+@model MySurvey
 
-<h1>Thanks for submitting the Survey @Model.name</h1>
+<h1>Thanks for submitting the Survey @Model.Name</h1>
 
 <h2><strong>Name: </strong> @Model.Name</h2>
 <br/>
@@ -8,3 +8,4 @@
 <br/>
 <h2><strong>Name: </strong></h2>
 <p>@Model.Message</p>
+<a asp-action="Index" asp-controller="Home">Home</a> 
