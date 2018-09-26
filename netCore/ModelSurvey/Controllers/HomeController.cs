@@ -15,7 +15,12 @@ namespace ModelSurvey.Controllers
         [HttpPost("create")]
         public IActionResult ProcessForm(MySurvey newSurvey)
         {
-            return View("Result", newSurvey);
+            if(ModelState.IsValid)
+            {
+                return View("Result", newSurvey);
+            }
+            
+            return View();
         }
     }
 }
