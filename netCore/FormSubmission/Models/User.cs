@@ -1,5 +1,4 @@
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel;
 
 namespace FormSubmission.Models
 {
@@ -16,8 +15,11 @@ namespace FormSubmission.Models
         [EmailAddress]
         [Required]
         public string Email { get; set; }
+            //other code
+        [DataType(DataType.Password)]
         [Required]
-        [DataType(DataType.Password)]
-        public string Password { get; set; }
+        public string Password { get; set; }
+    //other fields
+
     }
 }
