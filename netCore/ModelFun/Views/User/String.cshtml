@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>String</title>
+</head>
+<body>
+    <h1>These are the messages!</h1>
+    @{
+        foreach(string message in ViewBag.Messages)
+        {
+            <hr/>
+            <p>message</p>
+            <hr/>
+        }
+    }
+    
+</body>
+</html>

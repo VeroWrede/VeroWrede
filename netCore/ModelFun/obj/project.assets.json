@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\VWrede\\Desktop\\CodingDojo\\c#\\VeroWrede\\netCore\\Survey\\Survey.csproj",
-      "projectName": "Survey",
-      "projectPath": "c:\\Users\\VWrede\\Desktop\\CodingDojo\\c#\\VeroWrede\\netCore\\Survey\\Survey.csproj",
+      "projectUniqueName": "C:\\Users\\VWrede\\Desktop\\CodingDojo\\c#\\VeroWrede\\netCore\\ModelFun\\ModelFun.csproj",
+      "projectName": "ModelFun",
+      "projectPath": "C:\\Users\\VWrede\\Desktop\\CodingDojo\\c#\\VeroWrede\\netCore\\ModelFun\\ModelFun.csproj",
       "packagesPath": "C:\\Users\\VWrede\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\VWrede\\Desktop\\CodingDojo\\c#\\VeroWrede\\netCore\\Survey\\obj\\",
+      "outputPath": "C:\\Users\\VWrede\\Desktop\\CodingDojo\\c#\\VeroWrede\\netCore\\ModelFun\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
