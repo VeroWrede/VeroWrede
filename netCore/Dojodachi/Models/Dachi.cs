@@ -10,15 +10,15 @@ namespace Dojodachi.Models
         public int Fullness { get; set; }
         public int Meals { get; set; }
 
-        public Dachi(string Dachi)
+        public Dachi()
         {
-            Name = Dachi;
+            Name = "Albert";
             Happiness = 20;
             Energy = 50;
             Fullness = 20;
             Meals = 3;
         }
-        public void feed()
+        public void Feed(int Meals, int Fullness)
         {
             if (Meals == 0)
             {
@@ -60,7 +60,6 @@ namespace Dojodachi.Models
                 Fullness += filling;
             }
         }
-
         public void Play()
         {
             int joy = 0;
