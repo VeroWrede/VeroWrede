@@ -101,7 +101,6 @@ namespace Dojodachi.Models
         }
         public void Sleep()
         {
-            int rest = 0;
             Random rand = new Random();
             Energy += rand.Next(10, 16);
             Fullness -= rand.Next(10, 16);
