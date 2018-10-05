@@ -1,0 +1,11 @@
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Dochodachi2\bin\Debug\netcoreapp2.0\Dochodachi2.deps.json
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Dochodachi2\bin\Debug\netcoreapp2.0\Dochodachi2.runtimeconfig.json
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Dochodachi2\bin\Debug\netcoreapp2.0\Dochodachi2.runtimeconfig.dev.json
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Dochodachi2\bin\Debug\netcoreapp2.0\Dochodachi2.dll
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Dochodachi2\bin\Debug\netcoreapp2.0\Dochodachi2.pdb
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Dochodachi2\obj\Debug\netcoreapp2.0\Dochodachi2.csprojAssemblyReference.cache
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Dochodachi2\obj\Debug\netcoreapp2.0\Dochodachi2.csproj.CoreCompileInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Dochodachi2\obj\Debug\netcoreapp2.0\Dochodachi2.AssemblyInfoInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Dochodachi2\obj\Debug\netcoreapp2.0\Dochodachi2.AssemblyInfo.cs
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Dochodachi2\obj\Debug\netcoreapp2.0\Dochodachi2.dll
+C:\Users\VWrede\Desktop\CodingDojo\C#\netCore\Dochodachi2\obj\Debug\netcoreapp2.0\Dochodachi2.pdb
