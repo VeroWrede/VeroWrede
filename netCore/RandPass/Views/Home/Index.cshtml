@@ -1,0 +1,11 @@
+@{
+    if(ViewBag.Code == null)
+    {
+        <h1>Hello, create a passcode</h1>
+    } else {
+        <h1>Random passcode # @ViewBag.NumOfCodes </h1>
+        <h2>@ViewBag.Code</h2>
+    }
+}
+
+<span><a href="New">New Code</a></span>
