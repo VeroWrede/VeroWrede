@@ -1,0 +1,4 @@
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\DouQuo\obj\Debug\netcoreapp2.0\DouQuo.csprojAssemblyReference.cache
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\DouQuo\obj\Debug\netcoreapp2.0\DouQuo.csproj.CoreCompileInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\DouQuo\obj\Debug\netcoreapp2.0\DouQuo.AssemblyInfoInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\DouQuo\obj\Debug\netcoreapp2.0\DouQuo.AssemblyInfo.cs
