@@ -2,3 +2,10 @@ C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\DouQuo\obj\Debug\netcore
 C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\DouQuo\obj\Debug\netcoreapp2.0\DouQuo.csproj.CoreCompileInputs.cache
 C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\DouQuo\obj\Debug\netcoreapp2.0\DouQuo.AssemblyInfoInputs.cache
 C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\DouQuo\obj\Debug\netcoreapp2.0\DouQuo.AssemblyInfo.cs
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\DouQuo\bin\Debug\netcoreapp2.0\DouQuo.deps.json
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\DouQuo\bin\Debug\netcoreapp2.0\DouQuo.runtimeconfig.json
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\DouQuo\bin\Debug\netcoreapp2.0\DouQuo.runtimeconfig.dev.json
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\DouQuo\bin\Debug\netcoreapp2.0\DouQuo.dll
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\DouQuo\bin\Debug\netcoreapp2.0\DouQuo.pdb
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\DouQuo\obj\Debug\netcoreapp2.0\DouQuo.dll
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\DouQuo\obj\Debug\netcoreapp2.0\DouQuo.pdb

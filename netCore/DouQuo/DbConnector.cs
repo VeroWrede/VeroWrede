@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Data;
 using MySql.Data.MySqlClient;
 
-namespace DbConnection	//you can leave as is, or change to your own namespace
+namespace DouQuo	//you can leave as is, or change to your own namespace
 {
     public class DbConnector
     {

@@ -1,6 +1,6 @@
 <h1>Some awesome quotes:</h1>
 @{
-    foreach (var quote in ViewBag.Quotes)
+    foreach (var quote in ViewBag.quotes)
     {
         <p>@quote["user"]: @quote["Quote"] - @quote["CreatedAt"]</p>
         <hr/>
