@@ -10,6 +10,7 @@ namespace Lost.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly TrailFactory _somethignFactory;
         public IActionResult Index()
         {
             return View();
