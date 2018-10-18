@@ -10,29 +10,17 @@ namespace Lost.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly TrailFactory _somethignFactory;
+        private readonly TrailFactory _trailFactory;
+        [HttpGet("")]
         public IActionResult Index()
         {
             return View();
         }
 
-        public IActionResult About()
+        [HttpGet("Add")]
+        public IActionResult Add()
         {
-            ViewData["Message"] = "Your application description page.";
-
-            return View();
-        }
-
-        public IActionResult Contact()
-        {
-            ViewData["Message"] = "Your contact page.";
-
-            return View();
-        }
-
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View("New");
         }
     }
 }
