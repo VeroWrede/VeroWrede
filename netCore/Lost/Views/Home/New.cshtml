@@ -1,5 +1,21 @@
 <h1>
-    New path View
+    New trail View
 </h1>
 
-<a href="Index">Home</a>
+<a href="/">Home</a>
+
+<form method="POST" asp-action="New" asp-controller="Home">
+    <label for="Name">Trail Name:</label>
+    <input type="text" name="Name" placeholder="Trail of doom"><br>
+    <label for="Description">Description:</label>
+    <textarea name="Description" placeholder="muhahahah" rows="10" cols="30"></textarea><br>
+    <label for="Length">Length:</label>
+    <input type="number" name="Lenght" min="1" max="100"><br>
+    <label for="Elevation">Elevation Change:</label>
+    <input type="number" name="Elevation" min="1" max="50"><br>
+    <label for="Lat">Lat/</label>
+    <label for="Long">Long:</label>
+    <input type="number" name="Lat" min="0" max="180">
+    <input type="number" name="Long" min="0" max="180"><br>
+    <input type="Submit" value="Submit">
+</form>

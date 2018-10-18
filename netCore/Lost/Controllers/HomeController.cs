@@ -22,5 +22,11 @@ namespace Lost.Controllers
         {
             return View("New");
         }
+
+        [HttpGet("Details")]
+        public IActionResult Details()
+        {
+            return View("Details");
+        }
     }
 }
