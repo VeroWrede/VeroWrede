@@ -1,12 +1,12 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace Trail.Models
+namespace Lost.Models
 {
     public class Trail
     {
         [Key]
-        public int Id { get; set;}
+        public int TrailId { get; set;}
         [Required]
         [Display(Name = "Name:")]
         public string Name {get; set;}
@@ -16,6 +16,8 @@ namespace Trail.Models
         public float Length {get; set;}
         [Required]
         public float ElevationGain {get; set;}
+        [Required]
+        public float Longitude {get; set;}
         [Required]
         public float Latitude {get; set;}
         [Required]
