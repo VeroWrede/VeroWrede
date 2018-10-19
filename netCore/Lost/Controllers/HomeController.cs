@@ -15,12 +15,16 @@ namespace Lost.Controllers
         {
             dbContext = context;
         }
-        private readonly TrailFactory _trailFactory;
         [HttpGet("")]
         public IActionResult Index()
         {
             ViewBag.Trails = dbContext.Trails.Take(10);
             return View();
+        }
+        [HttpGet("New")]
+        public IActionResult New()
+        {
+            return View("New");
         }
 
         [HttpGet("Add")]
