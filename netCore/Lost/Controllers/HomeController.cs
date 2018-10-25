@@ -21,6 +21,7 @@ namespace Lost.Controllers
             ViewBag.Trails = dbContext.Trails.Take(10);
             return View();
         }
+        
         [HttpGet("New")]
         public IActionResult New()
         {
@@ -35,7 +36,7 @@ namespace Lost.Controllers
                 if(dbContext.Trails.Any(t => t.Name == trail.Name))
                 {
                     ModelState.AddModelError("Name", "This name is already taken");
-                    return View("Index");
+                    return View("New");
                 }
 
                 dbContext.Trails.Add(trail);
