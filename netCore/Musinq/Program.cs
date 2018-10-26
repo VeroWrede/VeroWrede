@@ -27,11 +27,11 @@ namespace ConsoleApplication
             IEnumerabel<Artist> willies = Artists.Where(a => a.Contains("William"));
 
             //Display the 3 oldest artist from Atlantap;
-            IEnumerabel<Artist> oldies = Artists.Take(3).OrderBy(a => a.age);
-            IEnumerabel<Artist> oldies = Artists.Take(3).OrderBy(a => a.age).Reverse(); //??
+            IEnumerabel<Artist> oldies = Artists.Take(3).Where(a => a.Hometown == "Atlanta").OrderBy(a => a.age);
+            IEnumerabel<Artist> oldies = Artists.Take(3).Where(a => a.Hometown == "Atlanta").OrderBy(a => a.age).Reverse(); //??
 
             //(Optional) Display the Group Name of all groups that have members that are not from New York City
-            
+
 
             //(Optional) Display the artist names of all members of the group 'Wu-Tang Clan'
 	    Console.WriteLine(Groups.Count);
