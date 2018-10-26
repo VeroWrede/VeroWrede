@@ -2,3 +2,10 @@ C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Lost\obj\Debug\netcoreap
 C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Lost\obj\Debug\netcoreapp2.0\Lost.csproj.CoreCompileInputs.cache
 C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Lost\obj\Debug\netcoreapp2.0\Lost.AssemblyInfoInputs.cache
 C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Lost\obj\Debug\netcoreapp2.0\Lost.AssemblyInfo.cs
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Lost\bin\Debug\netcoreapp2.0\Lost.deps.json
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Lost\bin\Debug\netcoreapp2.0\Lost.runtimeconfig.json
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Lost\bin\Debug\netcoreapp2.0\Lost.runtimeconfig.dev.json
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Lost\bin\Debug\netcoreapp2.0\Lost.dll
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Lost\bin\Debug\netcoreapp2.0\Lost.pdb
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Lost\obj\Debug\netcoreapp2.0\Lost.dll
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Lost\obj\Debug\netcoreapp2.0\Lost.pdb

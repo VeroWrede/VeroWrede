@@ -10,29 +10,50 @@ namespace Lost.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly TrailFactory _somethignFactory;
+        private TrailsContext dbContext;
+        public HomeController(TrailsContext context)
+        {
+            dbContext = context;
+        }
+        [HttpGet("")]
         public IActionResult Index()
         {
+            ViewBag.Trails = dbContext.Trails.Take(10);
             return View();
         }
-
-        public IActionResult About()
+        
+        [HttpGet("New")]
+        public IActionResult New()
         {
-            ViewData["Message"] = "Your application description page.";
-
-            return View();
+            return View("New");
         }
 
-        public IActionResult Contact()
+        [HttpGet("Add")]
+        public IActionResult Add(Trail trail)
         {
-            ViewData["Message"] = "Your contact page.";
+            if(ModelState.IsValid)
+            {
+                if(dbContext.Trails.Any(t => t.Name == trail.Name))
+                {
+                    ModelState.AddModelError("Name", "This name is already taken");
+                    return View("New");
+                }
 
-            return View();
+                dbContext.Trails.Add(trail);
+                dbContext.SaveChanges();
+
+                return View(trail.TrailId);
+            }
+            return View("Index");
         }
 
-        public IActionResult Error()
+        [HttpGet("{id}")]
+        public IActionResult Details(int trailId)
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            Trail currTrail = dbContext.Trails.FirstOrDefault(t => t.TrailId == trailId);
+            if (currTrail == null)
+                return RedirectToAction("Index");
+            return View(currTrail);
         }
     }
 }
