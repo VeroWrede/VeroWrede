@@ -57,7 +57,7 @@ public class LinkedList
         return null; 
     }
 
-    public string RemoveAt (int val)
+    public LinkedList RemoveAt (int val)
     {
         Node runner = Head;
         int index = 1;
@@ -73,11 +73,11 @@ public class LinkedList
             {
                 Node toBeDeleted = runner.Next;
                 runner.Next = toBeDeleted.Next;
-                return $"Node at index {index} was removed";
+                return this;
             }
             index ++;
         }
-        return "No node was removed";
+        return this;
     }
 
 }

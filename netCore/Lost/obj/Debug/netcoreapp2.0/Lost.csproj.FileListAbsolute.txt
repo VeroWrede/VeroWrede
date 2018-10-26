@@ -1,0 +1,4 @@
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Lost\obj\Debug\netcoreapp2.0\Lost.csprojAssemblyReference.cache
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Lost\obj\Debug\netcoreapp2.0\Lost.csproj.CoreCompileInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Lost\obj\Debug\netcoreapp2.0\Lost.AssemblyInfoInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Lost\obj\Debug\netcoreapp2.0\Lost.AssemblyInfo.cs

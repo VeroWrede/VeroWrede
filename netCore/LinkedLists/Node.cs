@@ -4,6 +4,7 @@ public class Node
     public Node Next;
     public Node (int value)
     {
-        blablabla
+        Value = value;
+        Next = null;
     }
 }
