@@ -1,6 +1,21 @@
-﻿<h1>
-    Index View
-</h1>
+﻿ @model Trail
+<table>
+    <thead>
+        <th>Trail Name</th>
+        <th>Trail Length</th>
+        <th>Eleveation Change</th>
+    </thead>
+    <tbody>
+        @foreach(var trail in ViewBag.Trail)
+        {
+            <tr>
+                <td><a href="details/@trail.TrailId">@trail.Name</a></td>
+                <td>@trail.Length</td>
+                <td>@trail.ElevationGain</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<hr>
 
 <a href="New">New Trail View</a>
-<a href="Details">Details View</a>

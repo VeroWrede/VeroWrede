@@ -1,5 +1,10 @@
-<h1>
-    Trail View
-</h1>
+@model Trail
+
+<h2>Trail @ViewBag.Trail.Name</h2>
+<p>Description: @Model.Description</p>
+<p>Length: @Model.Length Miles</p>
+<p>Elevation Change: @Model.ElevationGain Feet</p>
+<p>Lat/Lon: @Model.Latitude / @Model.Longitude</p>
+
 
 <a href="/">Home</a>
