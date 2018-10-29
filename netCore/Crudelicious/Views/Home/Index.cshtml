@@ -1,0 +1,14 @@
+@model Dish
+
+<div class="header">
+    <h2>Our most recent Dishes</h2>
+    <a href="New">Add a dish</a>
+</div>
+<hr>
+
+@{
+    foreach(var dish in @ViewBag.Dishes)
+    {
+        <p>dish.Name - dish.Chef</p>
+    }
+}
