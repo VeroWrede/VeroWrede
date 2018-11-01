@@ -1,29 +1,29 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Lost.Models;
 using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
+using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
+using Crudelicious.Models;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 
-namespace Lost
+namespace Crudelicious
 {
     public class Startup
     {
-        public IConfiguration Configuration { get; set;}
+        public IConfiguration Configuration { get; set; }
 
         public Startup (IConfiguration configuration)
         {
             Configuration = configuration;
         }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<TrailContext>(options => options.UseMySQL(Configuration["DBInfo:ConnectionString"]));
+            services.AddDbContext<DishContext>(options =>  options.UseMySQL(Configuration["DBInfo:ConnectionString"]));
             services.AddSession();
             services.AddMvc();
         }
@@ -36,7 +36,6 @@ namespace Lost
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseStaticFiles();
             app.UseSession();
             app.UseMvc();
         }

@@ -10,50 +10,52 @@ namespace Lost.Controllers
 {
     public class HomeController : Controller
     {
-        private TrailsContext dbContext;
-        public HomeController(TrailsContext context)
+        private TrailContext dbContext;
+        public HomeController(TrailContext context)
         {
             dbContext = context;
         }
         [HttpGet("")]
         public IActionResult Index()
         {
-            ViewBag.Trails = dbContext.Trails.Take(10);
+            ViewBag.Trail = dbContext.Trail.Take(10);
             return View();
         }
-        
+
         [HttpGet("New")]
         public IActionResult New()
         {
             return View("New");
         }
 
-        [HttpGet("Add")]
-        public IActionResult Add(Trail trail)
+        [HttpPost("Create")]
+        public IActionResult Create(Trail trail)
         {
             if(ModelState.IsValid)
             {
-                if(dbContext.Trails.Any(t => t.Name == trail.Name))
+                if(dbContext.Trail.Any(t => t.Name == trail.Name))
                 {
                     ModelState.AddModelError("Name", "This name is already taken");
                     return View("New");
                 }
 
-                dbContext.Trails.Add(trail);
+                dbContext.Trail.Add(trail);
                 dbContext.SaveChanges();
 
-                return View(trail.TrailId);
-            }
-            return View("Index");
+                return RedirectToAction("Index");
+            } 
+            return RedirectToAction("New");
         }
 
-        [HttpGet("{id}")]
-        public IActionResult Details(int trailId)
+        [HttpGet("details/{id}")]
+        public IActionResult Details(int id)
         {
-            Trail currTrail = dbContext.Trails.FirstOrDefault(t => t.TrailId == trailId);
-            if (currTrail == null)
-                return RedirectToAction("Index");
-            return View(currTrail);
+            Trail currTrail = dbContext.Trail.FirstOrDefault(t => t.TrailId == id);
+            ViewBag.Trail = currTrail;
+            //return View("Details");
+            return View("Details", currTrail);
         }
     }
 }
+
+
