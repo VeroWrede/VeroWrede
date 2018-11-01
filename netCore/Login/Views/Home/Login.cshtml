@@ -1,0 +1,13 @@
+<h2>Login</h2>
+
+<form method="POST" asp-action="login" asp-controller="Login">
+    <span asp-validation-for="Email"></span>
+    <label asp-for="Email"></label>
+    <input type="text" asp-for="Email">
+
+    <span asp-validation-for="Password"></span>
+    <label asp-for="Password"></label>
+    <input type="Password">
+
+    <input type="submit" value="Login">
+</form>
