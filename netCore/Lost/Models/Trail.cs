@@ -8,7 +8,7 @@ namespace Lost.Models
         [Key]
         public int TrailId { get; set;}
         [Required(ErrorMessage = "Name is required")]
-        [Display(Name = "Name:")]
+        [Display(Name = "Trail Name:")]
         [MinLength(10)]
         public string Name {get; set;}
         [Required(ErrorMessage = "Description is required")]

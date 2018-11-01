@@ -1,0 +1,23 @@
+@model Dish
+
+<form method="POST" asp-action="Update" asp-controller="Home" asp-route-dishId="@Model.DishId">
+    <span asp-validation-for="Name"></span>
+    <label for="Name">Name:</label>
+    <input type="text" name="Name" placeholder="@Model.Name"><br>
+    <label for="Chef">Chef:</label>
+    <input type="text" name="Chef" placeholder="@Model.Chef"><br>
+    <label for="Tastiness">Tastiness:</label>
+    <select for="Tastiness" placeholder="@Model.Tastiness">
+         @for(int i = 1; i <= 10; i++)
+       {
+           <option value="@i">@i</option>
+       }
+    </select><br>
+    <span asp-validation-for="Calories"></span>
+    <label for="Calories">Calories:</label>
+    <input type="number" min="0" step="100" placeholder="@Model.Calories"><br>
+    <span asp-validation-for="Description"></span>
+    <label for="Description">Description</label><br><br>
+    <textarea name="Description" rows="10" cols="30" placeholder="@Model.Description"></textarea><br>
+    <input type="Submit" value="Update">
+</form>

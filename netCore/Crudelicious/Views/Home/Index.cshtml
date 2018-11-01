@@ -1,14 +1,12 @@
-@model Dish
+@model List<Dish>
 
 <div class="header">
     <h2>Our most recent Dishes</h2>
+    @foreach(Dish dish in Model)
+    {
+        <p><a href="details/@dish.DishId">@dish.Name</a> - made by @dish.Chef</p>
+    }
+    <hr>
     <a href="New">Add a dish</a>
 </div>
-<hr>
 
-@{
-    foreach(var dish in @ViewBag.Dishes)
-    {
-        <p>dish.Name - dish.Chef</p>
-    }
-}

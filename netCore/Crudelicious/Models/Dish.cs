@@ -13,6 +13,8 @@ namespace Crudelicious.Models
         public string Name { get; set; }
 
         [MinLength(3)]
+        [Display(Name = "Made By ")]
+
         public string Chef { get; set; }
 
         public int Tastiness { get; set; }
@@ -22,6 +24,8 @@ namespace Crudelicious.Models
 
         [Required(ErrorMessage = "Description missing")]
         [MinLength(10)]
+        [Display(Name = "About this Dish:")]
+
         public string Description { get; set; }
 
         [Required]

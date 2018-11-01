@@ -44,7 +44,7 @@ namespace Lost.Controllers
 
                 return RedirectToAction("Index");
             } 
-            return RedirectToAction("New");
+            return View("New");
         }
 
         [HttpGet("details/{id}")]
