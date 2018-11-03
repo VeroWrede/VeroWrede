@@ -56,13 +56,13 @@ namespace  Crudelicious.Controllers
             return View("Details", currDish);
         }
 
-        [HttpGet("edit/{id}")]
-        public IActionResult Edit (int id) 
+        [HttpGet("edit/{DishId}")]
+        public IActionResult Edit (int DishId) 
         {
-            var dishModel = dbContext.Dishes.FirstOrDefault(d => d.DishId == id);
+            var dishModel = dbContext.Dishes.FirstOrDefault(d => d.DishId == DishId);
             if(dishModel == null)
             {
-                return RedirectToAction("Details", id);
+                return RedirectToAction("Details", DishId);
             }
             return View("Edit", dishModel);
         }

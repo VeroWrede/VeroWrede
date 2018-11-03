@@ -1,0 +1,11 @@
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Login\obj\Debug\netcoreapp2.0\Login.csprojAssemblyReference.cache
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Login\obj\Debug\netcoreapp2.0\Login.csproj.CoreCompileInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Login\obj\Debug\netcoreapp2.0\Login.AssemblyInfoInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Login\obj\Debug\netcoreapp2.0\Login.AssemblyInfo.cs
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Login\bin\Debug\netcoreapp2.0\Login.deps.json
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Login\bin\Debug\netcoreapp2.0\Login.runtimeconfig.json
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Login\bin\Debug\netcoreapp2.0\Login.runtimeconfig.dev.json
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Login\bin\Debug\netcoreapp2.0\Login.dll
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Login\bin\Debug\netcoreapp2.0\Login.pdb
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Login\obj\Debug\netcoreapp2.0\Login.dll
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Login\obj\Debug\netcoreapp2.0\Login.pdb

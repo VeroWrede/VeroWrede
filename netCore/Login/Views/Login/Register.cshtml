@@ -1,7 +1,9 @@
-<a href="login">Login</a>
+@model User
+
+<a href="create">Login</a>
 
 <h2>Register here</h2>
-<form asp-action="register" asp-controller="Login" metho="POST">
+<form asp-action="create" asp-controller="Login" method="POST">
     <span asp-validation-for="FirstName"></span>
     <label asp-for="FirstName"></label>
     <input type="text" asp-for="FirstName">
