@@ -2,9 +2,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Login.Models
 {
-    public class UserContext : DbContext
+    public class PeopleContext : DbContext
     {
-        public UserContext(DbContextOptions<UserContext> options) : base(options) {}
-        public DbSet<User> Users { get; set; }
+        public PeopleContext(DbContextOptions<PeopleContext> options) : base(options) {}
+        public DbSet<Person> People { get; set; }
     }
 }

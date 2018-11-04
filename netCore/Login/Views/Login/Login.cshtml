@@ -1,16 +1,18 @@
-@model User
+@model Person
 
 <h2>Login</h2>
 <a href="/">Create an account</a>
 
-<form method="POST" asp-action="login" asp-controller="Login">
+
+
+<form method="post" asp-action="verify" asp-controller="Login">
     <span asp-validation-for="Email"></span>
     <label asp-for="Email"></label>
     <input type="text" asp-for="Email">
 
     <span asp-validation-for="Password"></span>
     <label asp-for="Password"></label>
-    <input type="Password">
+    <input asp-for="Password" type="Password">
 
     <input type="submit" value="Login">
 </form>

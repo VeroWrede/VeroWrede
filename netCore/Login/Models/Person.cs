@@ -1,11 +1,13 @@
 using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Security.Claims;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace Login.Models
 {
-    public class User
+    public class Person
     {
         [Key]
         public int PersonId { get; set; }
@@ -24,7 +26,7 @@ namespace Login.Models
         [DataType(DataType.Password)]
         public string Password { get; set; }
         public DateTime CreatedAt { get; set; } = DateTime.Now;
-        public DateTime UpdatedAt { get; set; } = DateTime.Now;
+        public DateTime UpdatetAt { get; set; } = DateTime.Now;
         [NotMapped]
         [Compare("Password")]
         [DataType(DataType.Password)]
