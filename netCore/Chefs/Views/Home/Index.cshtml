@@ -1,0 +1,20 @@
+@model List<Cook>
+
+<div class="main">
+    <h2>Our rosy Chefs</h2>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th># Dishes</th>
+        </tr>
+        @foreach(Cook cook in Model)
+        {
+            <tr>
+                <td>@Cook.FirstName @Cook.LastName</td>
+                <td>@Cook.Age</td>
+                <td>@Cook.NumOfDishes</td>
+            </tr>
+        }
+    </table>
+</div>

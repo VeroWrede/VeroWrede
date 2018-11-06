@@ -1,0 +1,14 @@
+@model List<Dish>
+
+<a href="NewDish">Add a dish</a>
+
+<div class="main">
+    <h2>Our most recent Dishes</h2>
+    @foreach(Dish dish in Model)
+    {
+        <p><a href="dishDetails/@dish.DishId">@dish.Name</a> - made by @dish.Cook</p>
+    }
+    <hr>
+</div>
+
+ 

@@ -1,0 +1,27 @@
+@model Dish
+
+<a href="/">Home</a>
+
+<h2>Add a Dish!</h2>
+
+<form method="POST" asp-action="CreateDish" asp-controller="Home">
+    <span asp-validation-for="Name"></span>
+    <label for="Name">Name:</label>
+    <input type="text" name="Name"><br>
+    <label for="Cook">Cook:</label>
+    <input type="text" name="Cook"><br>
+    <label for="Tastiness">Tastiness:</label>
+    <select for="Tastiness">
+         @for(int i = 1; i <= 10; i++)
+       {
+           <option value="@i">@i</option>
+       }
+    </select><br>
+    <span asp-validation-for="Calories"></span>
+    <label for="Calories">Calories:</label>
+    <input type="number" min="0" step="100"><br>
+    <span asp-validation-for="Description"></span>
+    <label for="Description">Description</label><br><br>
+    <textarea name="Description" rows="10" cols="30"></textarea><br>
+    <input type="Submit" value="Submit">
+</form>

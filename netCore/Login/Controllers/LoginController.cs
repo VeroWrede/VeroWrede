@@ -65,7 +65,6 @@ namespace Login.Controllers
                 return View("Login");
             }
             return RedirectToAction("Success", existingPerson);
-            return View("Login");
         }
 
         // [HttpGet("success/{existingPerson.FirstName}")]

@@ -1,0 +1,11 @@
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Chefs\bin\Debug\netcoreapp2.0\Chefs.deps.json
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Chefs\bin\Debug\netcoreapp2.0\Chefs.runtimeconfig.json
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Chefs\bin\Debug\netcoreapp2.0\Chefs.runtimeconfig.dev.json
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Chefs\bin\Debug\netcoreapp2.0\Chefs.dll
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Chefs\bin\Debug\netcoreapp2.0\Chefs.pdb
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Chefs\obj\Debug\netcoreapp2.0\Chefs.csprojAssemblyReference.cache
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Chefs\obj\Debug\netcoreapp2.0\Chefs.csproj.CoreCompileInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Chefs\obj\Debug\netcoreapp2.0\Chefs.AssemblyInfoInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Chefs\obj\Debug\netcoreapp2.0\Chefs.AssemblyInfo.cs
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Chefs\obj\Debug\netcoreapp2.0\Chefs.dll
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Chefs\obj\Debug\netcoreapp2.0\Chefs.pdb
