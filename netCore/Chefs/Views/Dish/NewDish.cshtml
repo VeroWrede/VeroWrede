@@ -8,8 +8,16 @@
     <span asp-validation-for="Name"></span>
     <label for="Name">Name:</label>
     <input type="text" name="Name"><br>
+
     <label for="Cook">Cook:</label>
-    <input type="text" name="Cook"><br>
+    <select for="Cook">
+       @foreach(var cook in ViewBag.Cooks)
+        {
+            <option value="@cook.CookId">@cook.FullName</option>
+        }
+        </select>
+    </select><br>
+
     <label for="Tastiness">Tastiness:</label>
     <select for="Tastiness">
          @for(int i = 1; i <= 10; i++)

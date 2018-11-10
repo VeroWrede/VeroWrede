@@ -34,9 +34,6 @@ namespace Chefs.Models
             get { return $"{FirstName} {LastName}"; }
         }
         public List<Dish> Dishes { get; set; }
-        public int NumOfDishes
-        {
-            get { return Dishes.Count(); }
-        }
+        public int NumberOfDishes { get; set; }
     }
 }

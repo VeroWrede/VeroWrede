@@ -1,6 +1,7 @@
 @model List<Cook>
 
 <div class="main">
+    <a asp-controller="Cook" asp-action="New">Add a Cook</a>
     <h2>Our rosy Chefs</h2>
     <table>
         <tr>
@@ -11,9 +12,9 @@
         @foreach(Cook cook in Model)
         {
             <tr>
-                <td>@Cook.FirstName @Cook.LastName</td>
-                <td>@Cook.Age</td>
-                <td>@Cook.NumOfDishes</td>
+                <td>@cook.FirstName @cook.LastName</td>
+                <td>@cook.Age</td>
+                <td>@cook.NumberOfDishes</td>
             </tr>
         }
     </table>

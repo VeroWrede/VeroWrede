@@ -12861,6 +12861,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.8",
+      "Microsoft.EntityFrameworkCore.Tools >= 2.0.3",
       "Microsoft.NETCore.App >= 2.0.0",
       "MySql.Data.EntityFrameworkCore >= 8.0.11"
     ]
@@ -12872,11 +12873,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\VWrede\\Desktop\\CodingDojo\\c#\\VeroWrede\\netCore\\Chefs\\Chefs.csproj",
+      "projectUniqueName": "C:\\Users\\VWrede\\Desktop\\CodingDojo\\c#\\VeroWrede\\netCore\\Chefs\\Chefs.csproj",
       "projectName": "Chefs",
-      "projectPath": "c:\\Users\\VWrede\\Desktop\\CodingDojo\\c#\\VeroWrede\\netCore\\Chefs\\Chefs.csproj",
+      "projectPath": "C:\\Users\\VWrede\\Desktop\\CodingDojo\\c#\\VeroWrede\\netCore\\Chefs\\Chefs.csproj",
       "packagesPath": "C:\\Users\\VWrede\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\VWrede\\Desktop\\CodingDojo\\c#\\VeroWrede\\netCore\\Chefs\\obj\\",
+      "outputPath": "C:\\Users\\VWrede\\Desktop\\CodingDojo\\c#\\VeroWrede\\netCore\\Chefs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12909,6 +12910,10 @@
           "Microsoft.AspNetCore.All": {
             "target": "Package",
             "version": "[2.0.8, )"
+          },
+          "Microsoft.EntityFrameworkCore.Tools": {
+            "target": "Package",
+            "version": "[2.0.3, )"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",

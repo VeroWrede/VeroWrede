@@ -1,0 +1,21 @@
+@model Cook
+
+<a href="/">Home</a>
+
+<h2>Add a Cook!</h2>
+
+<form method="POST" asp-action="CreateCook" asp-controller="Cook">
+    <span asp-validation-for="FirstName"></span>
+    <label for="FirstName">First Name:</label>
+    <input type="text" name="FirstName"><br>
+
+    <span asp-validation-for="LastName"></span>
+    <label for="LastName">LastName:</label>
+    <input type="text" name="LastName"><br>
+    
+    <span asp-validation-for="DOB"></span>
+    <label for="DOB">DOB:</label>
+    <input type="date" max="2000-01-01"><br>
+
+    <input type="Submit" value="Add">
+</form>

@@ -7,7 +7,6 @@ namespace Chefs.Models
     {
         [Key]
         public int DishId { get; set; }
-        public int CookId  { get; set;}
 
         [Required(ErrorMessage = "Name required")]
         [MinLength(3)]
@@ -32,7 +31,7 @@ namespace Chefs.Models
 
         [Required]
         public DateTime UpdatedAt { get; set; }
-
+        public int CookId { get; set; }
         public Cook Cook { get; set; }
     }
 }
