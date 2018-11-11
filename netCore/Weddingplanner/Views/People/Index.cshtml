@@ -1,0 +1,25 @@
+@model List<Wedding>
+
+<a asp-controller="Home" asp-action="Logout">Logout</a>
+<a asp-controller="Wedding" asp-action="New">Plan a Wedding!</a>
+
+<div class="main">
+    <h2>Welcome to the Wedding Planner</h2>
+    <table>
+        <tr>
+            <th>Wedding</th>
+            <th>Date</th>
+            <th># Guests</th>
+            <th>Action</th>
+        </tr>
+        @foreach(Wedding wed in Model)
+        {
+            <tr>
+                <td>@wed.Weddee & @wed.Wedder</td>
+                <td>@wed.Date</td>
+                <td>@wed.Attendees.Count()</td>
+                <td>Action</td>
+            </tr>
+        }
+    </table>
+</div>

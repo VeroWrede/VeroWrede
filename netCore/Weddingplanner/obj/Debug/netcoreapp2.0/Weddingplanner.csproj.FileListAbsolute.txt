@@ -1,0 +1,11 @@
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Weddingplanner\obj\Debug\netcoreapp2.0\Weddingplanner.csprojAssemblyReference.cache
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Weddingplanner\obj\Debug\netcoreapp2.0\Weddingplanner.csproj.CoreCompileInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Weddingplanner\obj\Debug\netcoreapp2.0\Weddingplanner.AssemblyInfoInputs.cache
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Weddingplanner\obj\Debug\netcoreapp2.0\Weddingplanner.AssemblyInfo.cs
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Weddingplanner\bin\Debug\netcoreapp2.0\Weddingplanner.deps.json
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Weddingplanner\bin\Debug\netcoreapp2.0\Weddingplanner.runtimeconfig.json
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Weddingplanner\bin\Debug\netcoreapp2.0\Weddingplanner.runtimeconfig.dev.json
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Weddingplanner\bin\Debug\netcoreapp2.0\Weddingplanner.dll
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Weddingplanner\bin\Debug\netcoreapp2.0\Weddingplanner.pdb
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Weddingplanner\obj\Debug\netcoreapp2.0\Weddingplanner.dll
+C:\Users\VWrede\Desktop\CodingDojo\c#\VeroWrede\netCore\Weddingplanner\obj\Debug\netcoreapp2.0\Weddingplanner.pdb
